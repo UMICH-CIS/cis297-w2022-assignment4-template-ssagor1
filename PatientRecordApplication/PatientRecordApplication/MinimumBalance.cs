@@ -1,4 +1,11 @@
-﻿using System;
+﻿
+/// <summary>
+/// This program allows doctor's staff to store patient's data such as Name, ID, Balanced Owed. Also, this program allows user to see all the record as well as individual records. 
+/// </summary>
+/// <Student> Shahriar Sagor </Student>
+/// <Class> CIS297 </Class>
+/// <Semester> Winter 2022 </Semester>
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
